@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/jquery.js": "/js/jquery.js",
+    "/js/glyphicons.js": "/js/glyphicons.js",
+    "/js/multiple-select.js": "/js/multiple-select.js",
+    "/js/select.js": "/js/select.js",
+    "/js/toastr.js": "/js/toastr.js",
+    "/js/vue-multiselect.js": "/js/vue-multiselect.js",
+    "/js/ladda.js": "/js/ladda.js",
+    "/js/ladda.min.js": "/js/ladda.min.js",
+    "/css/toastr.css": "/css/toastr.css",
+    "/css/multiple-select.css": "/css/multiple-select.css",
+    "/css/select.css": "/css/select.css",
+    "/css/vue-multiselect.css": "/css/vue-multiselect.css",
+    "/css/custombox.css": "/css/custombox.css",
+    "/css/ladda.css": "/css/ladda.css"
+}

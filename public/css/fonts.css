@@ -1,0 +1,141 @@
+@font-face {
+  font-family: greatvibes;
+  src: url(fonts/greatvibes.ttf);
+}
+.titulotexto-propio2{
+
+  font-family: Arial;
+  font-size: 12pt;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: black;
+
+}
+.loginenlance-propio{
+
+  font-family: Arial;
+  font-size: 12pt;
+
+}
+.titulotexto-propio{
+
+  font-family: Arial;
+  font-size: 12pt;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+
+}
+.dirreciontexto-propio{
+
+  font-family: Arial;
+  font-size: 12pt;
+  color: white;
+
+}
+
+.contactotexto-propio{
+
+  font-family: Arial;
+  font-size: 12pt;
+color: white;
+
+
+}
+
+#inspiracion{
+    font-family: greatvibes;
+}
+.menu li a {
+
+  font-family: Arial;
+  font-size: 12pt;
+
+}
+.nombrearticulos{
+
+  color:black;
+
+}
+.nombrearticulos a{
+
+  text-decoration: none;
+  color:black;
+}
+
+.nombrearticulos a:hover{
+
+ color:rgb(157, 157, 157);
+
+}
+.fechasarticulos{
+
+  font-family: Arial;
+  font-size: 12pt;
+
+}
+.publicacionarticulos{
+
+  font-family: Arial;
+  font-size: 12pt;
+  color: rgb(4, 4, 4);
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+.lineainstagram{
+  font-family: Arial;
+  font-size: 12pt;
+
+}
+
+.suscribete{
+
+  font-family: greatvibes;
+  font-size: 18pt;
+  font-weight: bold;
+
+}
+
+.contacto {
+
+  font-family: greatvibes;
+  text-decoration:none;
+  font-size: 24pt;
+  text-shadow: 0 0 10px #fff,
+  0 0 20px #fff,
+  0 0 30px #fff,
+  0 0 40px #ff00de,
+  0 0 70px #ff00de,
+  0 0 80px #ff00de,
+  0 0 100px #ff00de,
+  0 0 150px #ff00de;
+
+}
+
+.contactopath{
+
+  font-family: greatvibes;
+  color:rgb(0, 0, 0);
+  font-size: 26pt;
+
+}
+
+.contactopath a{
+
+  font-size: 20pt;
+  color:rgb(0, 0, 0);
+
+
+}
+
+/* login */
+
+.tituloheading-propio{
+
+  font-family: Arial;
+  font-size: 18pt;
+color:white;
+
+}
